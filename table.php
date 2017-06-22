@@ -1,5 +1,5 @@
 <?php
-  var theData = "hello world1234";
+  var theData = "hello world";
   echo "<table>
           <tr>
             <td>$theData</td>
